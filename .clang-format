@@ -1,0 +1,19 @@
+---
+Language: Cpp
+BasedOnStyle: LLVM
+Standard: c++20
+ColumnLimit: 100
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+PointerAlignment: Left
+ReferenceAlignment: Left
+SortIncludes: true
+IncludeBlocks: Regroup
+AllowShortFunctionsOnASingleLine: Empty
+BreakBeforeBraces: Attach
+ConstructorInitializerIndentWidth: 4
+SpaceAfterTemplateKeyword: true
+AlignTrailingComments: true
+ReflowComments: true
+...
